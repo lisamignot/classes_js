@@ -4,7 +4,6 @@ class Bicicleta {
         this.aro = aro;
         this.pedal = pedal;
     }
-    
 }
 
 //primeira classe herdeira
